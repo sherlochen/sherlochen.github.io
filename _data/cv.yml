@@ -6,21 +6,6 @@ cv:
   image: ""
   summary: A Engnieer foucus on FuSa, SOTIF and AI Safety
 
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
-
   sections:
     Education:
       - institution: University of Zurich
@@ -52,7 +37,7 @@ cv:
         location: Hanghzou bay,Zhejiang
         start_date: 2026.04
         end_date: Now
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+        summary: L2+ ADAS global vehicle homologation/type approval. L3/L4 AD FuSa, SOTIF and AI Safety on total vehicle level.
         highlights:
           - Relativity
           - Description 2.
@@ -63,14 +48,15 @@ cv:
         start_date: 2024.12
         end_date: 2026.04
         highlights:
-          - Description 1.
-          - Description 2.
+          - Safety central team
+          - Comfirmation review
+          - FuSa standards and homologation
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: BYD
+        position: Senior Engineer
+        location: Shenzhen
+        start_date: 2023.10
+        end_date: 2024.12
 
       - company: Karl-Ferdinand University
         position: Professor of Theoretical Physics
